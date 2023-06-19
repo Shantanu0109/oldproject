@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARRAY1/ARRAY1.iml" filepath="$PROJECT_DIR$/ARRAY1/ARRAY1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IF-ELSE/IF-ELSE.iml" filepath="$PROJECT_DIR$/IF-ELSE/IF-ELSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern_2/Pattern_2.iml" filepath="$PROJECT_DIR$/Pattern_2/Pattern_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Practices.iml" filepath="$PROJECT_DIR$/Practices/Practices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SORTING/SORTING.iml" filepath="$PROJECT_DIR$/SORTING/SORTING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[BASIC]/[BASIC].iml" filepath="$PROJECT_DIR$/[BASIC]/[BASIC].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[LOOPS]/[LOOPS].iml" filepath="$PROJECT_DIR$/[LOOPS]/[LOOPS].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[OPERATOR]/[OPERATOR].iml" filepath="$PROJECT_DIR$/[OPERATOR]/[OPERATOR].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[PATTERN1]/[PATTERN1].iml" filepath="$PROJECT_DIR$/[PATTERN1]/[PATTERN1].iml" />
+    </modules>
+  </component>
+</project>
